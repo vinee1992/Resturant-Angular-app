@@ -1,0 +1,37 @@
+{
+  "resto": [
+    {
+      "name": "vineet chaurasia",
+      "address": "SBI- Refund Banker",
+      "mobile": "9962676625",
+      "email": "vineetchaurasia2010@gmail.com",
+      "id": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "vineet chaurasia",
+      "email": "cooldudevineet2010@gmail.com",
+      "pwd": "123456",
+      "id": 1
+    },
+    {
+      "name": "vineet chaurasia updated",
+      "email": "cooldudevineet2010@gmail.com",
+      "pwd": "123456",
+      "id": 2
+    },
+    {
+      "name": "amit parmar",
+      "email": "amit@genpact.com",
+      "pwd": "2578",
+      "id": 3
+    },
+    {
+      "name": "Kittu from kotwari",
+      "email": "vineetchaurasia2010@gmail.com",
+      "pwd": "67890009@3456766543!000000%sdaertrqw!@",
+      "id": 4
+    }
+  ]
+}
